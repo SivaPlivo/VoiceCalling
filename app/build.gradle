@@ -14,6 +14,9 @@ android {
         jackOptions {
             enabled true
         }
+        ndk {
+            moduleName "libpjsua2"
+        }
     }
     buildTypes {
         release {

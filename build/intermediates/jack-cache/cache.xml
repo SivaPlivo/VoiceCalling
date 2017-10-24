@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Siva/.android/build-cache/8646323d21f6ac6e04c78f3bfc6fe3908249690e/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-162cd4495149da1f791df839e1c13e3ac0a58bd6.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/1187197db693b920e7628c0915ff908948a5e484/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5de92775338459075ccccd201c92d224caa4ea29.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-77a0087166b0205c98f6df596e253fada6e091ca.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/c8f39f8584562ddc147406d3981fbff886d97671/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b7da1671de15d62b4f716bc4d9ed214a19da4911.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/26f2d19d8dbba56afd3681504b216d2037ebbddb/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-fd8339d088d8847fe02b7f50dfdbd19b5495f986.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.3.1-83918f26b37d2163fb66d05f6c8943cacaeca17c.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/c247172d2807238f14b3d130477b0f7ef798f32f/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4456458ad09023c210b9357c37fd0176c307887f.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/6add262c940de4083a19a9ce6036bf6ccb3b9422/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-42e4cb7b3534bf7a7789da75178d4a9bd37a8f5c.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/9b70b776c46b7386ccef8613b5786888db838c88/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7b35a42eed90dd272cb65c7a02f9762e629852ee.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/e17fd4c8a0448b76a60971630158f1ae11c30aa2/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e193cca9f9fc427c585a3037b31a30c421b5e838.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/efa4faff2fdeee15b6b7e9ad3666338cfe849bf0/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-27e8309190cb64c8c7d5379e759a2ce8c04ce49c.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/eeb6208a07fac7a6c12974872fb5f8101575cb68/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-6331d7f6a2b3ffbd1c639d7e5b368f620276282f.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/c500044b78ecf3b25470bf12c833a2f29375e70b/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="a0e9cebf629e5ddb3b40c0f14256de4faa491f61">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5b4c2807b60117d8c5c1328fe2c0ba75a54b21d5.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/a39c3865608a177c664dff958bd14a7c2d475443/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-02256f73146dbe4c4128a4f7238294a9646043e5.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/491c53d7b7d72c3ba4d7e2d7a91fada674844ab4/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8257029c52bd985adc942fd2d8bfa8fd7c2ee6c6.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/629a641f9c167d2fdcd60b4d9b50f1e33ca216ef/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-079503727c160e1e15a614f83b0dbfeb2b261b3b.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/a17d0561c18cec3199cb58060e252377fce7193a/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f2c2fbb28826974515e6fe701060492a9a8d3a7f.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/40001c7b887b91d9143ce95f3a12840ec71445ff/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9272a143df5e3c8f8bd5f3c56320642756ccaeae.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/f0ad8f1f8b4a652c7c20625cb4af862522d0ce74/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e6f96d0c932ae828cda3ef7c89e9d900b9bb7608.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/22baffb6a777d0a52adf6bc4350b80928b0ebcd4/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e54b11f5d72b5dbe2f6bc5d90722be5730b61b3e.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/Downloads/VoiceCalling/app/libs/plivoendpoint.jar"
+        revision="25.0.3"
+        sha1="f7fbf4c2687d69bd9a71b6c8af9ee7c2506c33fe">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/plivoendpoint-20487a3ad812a02b6dee1d120b4739353429b04d.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-ccd6008de6670f254265a424a02a02c278d57719.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/e71033471254ddf0cc330c11da1a097b1732c293/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e6a0ef3fb693cb2c20132ab3e3fb89994c1fdd1a.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/058f0d088655c0018619a3c04832881359e31578/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c5271e7884fbb7a8f84772397057d1e8223aaa00.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-2c183e2eb6218ba9abdb8d51bdb0af33af77dcab.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/0cb4913dcf0eba92719885b8e3a08243a71737fa/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4bb930220da412d56465f25004baed6d81dcb203.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/480168650d2e47cf9ed8164bb139a1804f490050/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ca6c1421a2f24a7d3c0b382a17677e21cb5193fb.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/cd6de3287854d66ff518bd6dd22e3ceb08eaff7a/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5ae275f1de00b12bcfc6816462bef225b48883ae.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/c47b2d09b69b222443b0a0d1d680492c82a898f1/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-27371161aaa5bc461758b9e3885244306e46588b.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/9dacb97c71ba2cc043e862684942228a74b98a7f/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-73d8a8d74dabf5348dc53659eae4ca72d78afecb.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/a78a76297b4809b16e1c3efada47e2bdac7a792f/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5491c32dbe1318f9b70b7e87adf12c6cd667d422.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/0617d24e1dae8701d3f4460c13e1484c26b7c14e/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-52e9a0c3c77d60a7212b854a5aba240234059bc9.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/3249292efb60f618cd70f3bc2ba051da22ef9035/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c34c81a86a54a213ade4e30fe708b2eb40d48ef4.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/ddb469e0790c218f11a2490a3765d78c900141c6/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-fbde752ee6a0eb14beefb3a56b270b7a55af0eea.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/f3277650b492f63f19d595d2335ab0ba023e0c98/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2eca2bff61ac2e53defd5551146de1993d27327f.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/5cbf9c551f500ffd3361c97c0f78433ba5bb2511/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-cb9b0ee0cd053d292682c6a68f58cc8b8c84737c.jar" />
+    </item>
+    <item
+        jar="/Users/Siva/.android/build-cache/59ffe4119807713ce5f50ed22ad7e69d367dec45/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Siva/Downloads/VoiceCalling/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-3d16112dd9e320fdb664f6ad9e26817860d3dcbf.jar" />
+    </item>
+
+</items>
